@@ -24,3 +24,5 @@ fancybox: true
 
 # google_analytics: 
 favicon: /images/favicon.png
+
+theme: jekyll-theme-cayman
